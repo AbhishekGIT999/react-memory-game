@@ -3,7 +3,7 @@
 A responsive, polished Memory Card Matching Game built with **React** and deployed on **Vercel**. This project was developed as a submission for the Frontend Internship assignment.
 
 ## 🚀 Live Demo & Repository
-* **Live Deployment URL:** [https://react-memory-game-drab.vercel.app/]
+* **Live Deployment URL:** https://react-memory-game-drab.vercel.app/
 * **GitHub Repository:** https://github.com/AbhishekGIT999/react-memory-game
 
 ## ✨ Features Implemented
@@ -26,5 +26,9 @@ A responsive, polished Memory Card Matching Game built with **React** and deploy
 To get this project running locally on your computer:
 
 1. Clone the repository:
+```bash
+git clone [https://github.com/AbhishekGIT999/react-memory-game.git](https://github.com/AbhishekGIT999/react-memory-game.git)
+
+2. **Navigate into the project folder:**
    ```bash
-   git clone [https://github.com/AbhishekGIT999/react-memory-game.git](https://github.com/AbhishekGIT999/react-memory-game.git)
+   cd react-memory-game
